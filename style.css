@@ -1,0 +1,29 @@
+
+
+*{
+    box-sizing: border-box;
+    justify-content: center;
+    align-items: center;
+    background-color: aqua;
+}
+
+
+
+h2{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+
+#div1 {
+    box-sizing: border-box;
+    margin: 100px auto;
+    font-size:48px;
+    align-items: center;
+    display: grid;
+    
+  }
+
+  
+  
+  
